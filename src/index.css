@@ -1,0 +1,9 @@
+*{
+  /* margin: 0;
+  padding: 0;
+  box-sizing: border-box; */
+  font-family: "open-sans", sans-serif;
+}
+.bg{
+  background-color: rgb(53, 4, 99);
+}
